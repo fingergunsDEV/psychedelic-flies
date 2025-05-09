@@ -130,7 +130,7 @@ nav ul li a:hover::after {
     letter-spacing: 3px;
     text-transform: uppercase;
     color: #fff;
-    text-shadow: 0 0 10px rgba(255, 0, 204, 0.8), 0 0 20px rgba(51, 153, 255, 0.5);
+    text-shadow: 0 0 10px rgba(255, 255, 2255, 0.8), 0 0 20px rgba(100, 103, 9, 0.5);
     animation: glow 2s infinite alternate;
 }
 
@@ -138,7 +138,7 @@ nav ul li a:hover::after {
     font-size: 1.8rem;
     margin-bottom: 40px;
     font-style: italic;
-    color: #f0f0f0;
+    color: #00ff00;
 }
 
 .cta-buttons {
@@ -237,7 +237,7 @@ nav ul li a:hover::after {
 .about-text p {
     margin-bottom: 20px;
     font-size: 1.1rem;
-    color: #00ff00;
+    color: #00ffe9;
 }
 
 /* Music Section */
@@ -290,7 +290,7 @@ nav ul li a:hover::after {
 }
 
 .album p {
-    color: #aaa;
+    color: #00ffe9;
     margin-bottom: 15px;
 }
 
@@ -348,18 +348,18 @@ audio {
 .date {
     font-weight: 700;
     font-size: 1.2rem;
-    color: #ff00cc;
+    color: #00ffe9;
     width: 200px;
 }
 
 .venue {
     flex: 1;
     font-size: 1.1rem;
-    color: #e0e0e0;
+    color: #00ffe9;
 }
 
 .ticket-button {
-    background: linear-gradient(45deg, #ff00cc, #3399ff);
+    background: linear-gradient(45deg, #00ffe9, #00ffe9);
     color: #fff;
     text-decoration: none;
     padding: 10px 20px;
@@ -421,18 +421,18 @@ audio {
 .contact-info p {
     margin-bottom: 20px;
     font-size: 1.1rem;
-    color: #e0e0e0;
+    color: #00ffe9;
 }
 
 .contact-info a {
-    color: #ff00cc;
+    color: #00ffe9;
     text-decoration: none;
     font-weight: 600;
     transition: color 0.3s ease;
 }
 
 .contact-info a:hover {
-    color: #3399ff;
+    color: #00ffe9;
 }
 
 .social-links {
@@ -466,7 +466,7 @@ audio {
 
 .newsletter p {
     margin-bottom: 20px;
-    color: #e0e0e0;
+    color: #00ffe9;
 }
 
 #newsletter-form {
@@ -487,7 +487,7 @@ audio {
 
 .submit-button {
     padding: 15px 25px;
-    background: linear-gradient(45deg, #ff00cc, #3399ff);
+    background: linear-gradient(45deg, #00ffe9, #0074d9);
     color: #fff;
     border: none;
     border-radius: 25px;
@@ -503,7 +503,7 @@ audio {
 
 /* Footer */
 footer {
-    background-color: #0a0a0a;
+    background-color: #00ffe9;
     padding: 40px 0;
     text-align: center;
 }
@@ -520,7 +520,7 @@ footer {
 }
 
 .footer-text {
-    color: #888;
+    color: #FFF;
 }
 
 /* Animations */
