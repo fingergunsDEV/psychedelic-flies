@@ -9,7 +9,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     background-color: #121212;
-    background-image: url('pattern.png');
+    background-image: url('https://assets.onecompiler.app/42kgg76bk/43h4js6pt/pattern.png');
     line-height: 1.6;
 }
 
@@ -82,7 +82,7 @@ nav ul li a::after {
     height: 2px;
     bottom: 0;
     left: 0;
-    background: linear-gradient(90deg, #ff00cc, #3399ff);
+    background: linear-gradient(90deg, #00ffe9, #00ff00);
     transition: width 0.3s ease;
 }
 
@@ -93,7 +93,7 @@ nav ul li a:hover::after {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('hero-bg.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://assets.onecompiler.app/42kgg76bk/43h4js6pt/PF%20-%20001.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -150,7 +150,7 @@ nav ul li a:hover::after {
 .cta-button {
     display: inline-block;
     padding: 15px 30px;
-    background: linear-gradient(45deg, #ff00cc, #3399ff);
+    background: linear-gradient(45deg, #00ffe9, #00ff00);
     color: #fff;
     text-decoration: none;
     border-radius: 30px;
@@ -203,7 +203,7 @@ nav ul li a:hover::after {
     transform: translateX(-50%);
     width: 100px;
     height: 3px;
-    background: linear-gradient(90deg, #ff00cc, #3399ff);
+    background: linear-gradient(90deg, #ff00cc, #00ff00);
 }
 
 /* About Section */
@@ -237,7 +237,7 @@ nav ul li a:hover::after {
 .about-text p {
     margin-bottom: 20px;
     font-size: 1.1rem;
-    color: #e0e0e0;
+    color: #00ff00;
 }
 
 /* Music Section */
@@ -329,7 +329,7 @@ audio {
 }
 
 .tour-date {
-    background: rgba(30, 30, 30, 0.7);
+    background: rgba(0, 0, 0, 0.7);
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
